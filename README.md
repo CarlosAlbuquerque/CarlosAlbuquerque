@@ -1,5 +1,5 @@
 ##  About
-Dev Jr Full Stack in Kovi.
+Intern Dev in Kovi.
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
