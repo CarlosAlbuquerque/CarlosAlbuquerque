@@ -1,11 +1,19 @@
-##  Hi, I'm Carlos Henrique ALbuquerque!
+##  About
+Dev Jr Full Stack in Kovi.
 
+## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-111111?style=flat&logoColor=fff&logo=cypress)&nbsp;
+
+## Studying
 ![Graphql](https://img.shields.io/badge/-Graphql-e10098?style=flat&logoColor=fff&logo=graphql)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-000000?style=flat&&logo=React)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-111111?style=flat&logoColor=fff&logo=cypress)&nbsp;
+
+## Contact
+[![Carlos Albuquerque LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&&logo=LinkedIn)](https://www.linkedin.com/in/carlos-albuquerque-639611162/)
+
 ---
 [![Carlos Albuquerque github stats](https://github-readme-stats.vercel.app/api?username=CarlosAlbuquerque&count_private=true&show_icons=true&theme=blueberry)](https://github.com/CarlosAlbuquerque/github-readme-stats)
 
