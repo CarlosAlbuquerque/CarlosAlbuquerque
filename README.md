@@ -12,6 +12,8 @@ Intern Dev in Kovi.
 ## Studying
 ![Graphql](https://img.shields.io/badge/-Graphql-e10098?style=flat&logoColor=fff&logo=graphql)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-000000?style=flat&&logo=React)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&&logo=Jest)&nbsp;
+
 
 ## Contact
 [![Carlos Albuquerque LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&&logo=LinkedIn)](https://www.linkedin.com/in/carlos-albuquerque-639611162/)
