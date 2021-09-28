@@ -1,5 +1,5 @@
 ##  About
-Intern Dev in Kovi.
+Junior Software Development Engineer in Kovi.
 
 ## Skills
 ![HTML](https://img.shields.io/badge/-HTML-F00?style=flat&logoColor=fff&logo=html5)&nbsp;
