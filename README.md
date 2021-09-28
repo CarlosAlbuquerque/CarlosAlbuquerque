@@ -27,3 +27,4 @@ Junior Software Development Engineer in Kovi.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosAlbuquerque&repo=games&theme=blueberry)](https://github.com/CarlosAlbuquerque/games)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosAlbuquerque&repo=projectsDiscoverMarathon&theme=blueberry)](https://github.com/CarlosAlbuquerque/projectsDiscoverMarathon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosAlbuquerque&repo=programmingCourses&theme=blueberry)](https://github.com/CarlosAlbuquerque/programmingCourses)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosAlbuquerque&repo=GithubExplorer&theme=blueberry)](https://github.com/CarlosAlbuquerque/GithubExplorer)
